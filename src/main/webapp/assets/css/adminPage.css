@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.site-left {
+	background-color: rgb(61, 75, 100);
+}
+
+.nav .nav-link {
+	color: whitesmoke;
+	font-size: 1rem;
+}
+
+.navTop {
+	height: 85px;
+}
+
+.dropdown-menu {
+	width: 220px;
+}
+
+.site-left {
+	display: block;
+}
+
+.open {
+	display: none;
+}
+
+.tab-content {
+	height: 100vh;
+	overflow-y: auto;
+	background-color: #ECECEC;
+}
+
+.form-label{
+	font-weight: bold;
+}
